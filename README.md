@@ -186,7 +186,8 @@ LIMIT 10;
 
 Each query not only served to answer a specific question but also to improve my understanding of SQL and database analysis. Through this project, I learned to leverage SQL's powerful data manipulation capabilities to derive meaningful insights from complex datasets.
 
-![alt text](image.png)
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/5719bab4-31db-4cef-a87a-9c0abb4f8ac0" />
+
 
 This bar chart shows the most in-demand skills for Data Analyst roles. SQL and Excel clearly dominate the market, followed by Python and Tableau, confirming that these are the core technical skills employers consistently seek.
 # What I Learned
